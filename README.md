@@ -5,3 +5,5 @@
 ##### :pushpin: Content by weeks:
 
 ###### :one: Hello World
+
+###### :one: Variable Types and Bitwise Operators
