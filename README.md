@@ -6,4 +6,6 @@
 
 ###### :one: Hello World
 
-###### :one: Variable Types and Bitwise Operators
+###### :two: Variable Types and Bitwise Operators
+
+###### :three: If statements and ternary operator
